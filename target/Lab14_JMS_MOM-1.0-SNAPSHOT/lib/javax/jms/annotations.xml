@@ -1,0 +1,7 @@
+<root>
+    <item name='javax.jms.ConnectionFactory javax.jms.JMSContext createContext(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true"/>
+        </annotation>
+    </item>
+</root>

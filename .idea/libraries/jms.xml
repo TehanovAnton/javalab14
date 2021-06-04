@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jms">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../glassfish6/mq/lib/jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../glassfish6/mq/lib/fscontext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../glassfish6/mq/lib/imq.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

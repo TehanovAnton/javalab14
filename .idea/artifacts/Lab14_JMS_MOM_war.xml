@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Lab14_JMS_MOM:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Lab14_JMS_MOM</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Lab14_JMS_MOM-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Lab14_JMS_MOM:war exploded" />
+    </root>
+  </artifact>
+</component>
